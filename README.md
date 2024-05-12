@@ -50,10 +50,6 @@ Here's an example of how you can use the Password Generator:
 $ python password_generator.py
 
 Enter the length of the password: 12
-Include uppercase letters? (yes/no): yes
-Include lowercase letters? (yes/no): yes
-Include numbers? (yes/no): yes
-Include special characters? (yes/no): yes
 
 Generated Password: Rb7#pYh2!sFg
 
